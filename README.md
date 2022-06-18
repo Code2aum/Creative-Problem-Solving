@@ -1,7 +1,7 @@
 # CREATIVE PROBLEM SOLVING
 
 When it comes to problem solving, even kids who are quick with arithmetic knowledge sometimes get stuck.
-
+![](doodl1.png)
 
 They become stumped as soon as an idea is turned into a word problem or a simple mathematical sentence contains an unknown.
 
