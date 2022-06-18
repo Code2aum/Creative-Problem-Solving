@@ -2,6 +2,7 @@
 
 When it comes to problem solving, even kids who are quick with arithmetic knowledge sometimes get stuck.
 
+<img width="728" alt="doodle1" src="https://user-images.githubusercontent.com/102581036/174451147-114ccc69-6afd-4dda-bae4-a8af3c0d2d4c.png">
 
 They become stumped as soon as an idea is turned into a word problem or a simple mathematical sentence contains an unknown.
 
